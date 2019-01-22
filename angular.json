@@ -23,9 +23,36 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "node_modules/css/material-dashboard.min.css",
+              "node_modules/demo/demo.css"
             ],
-            "scripts": []
+            "scripts": [
+              "node_modules/js/core/jquery.min.js",
+              "node_modules/js/core/popper.min.js",
+              "node_modules/js//core/bootstrap-material-design.min.js",
+              "node_modules/js/plugins/perfect-scrollbar.jquery.min.js",
+              "node_modules/js/plugins/moment.min.js",
+              "node_modules/js/plugins/sweetalert2.js",
+              "node_modules/js/plugins/jquery.validate.min.js",
+              "node_modules/jquery/dist/jquery.js",
+              "node_modules/js/plugins/jquery.bootstrap-wizard.js",
+              "node_modules/js/plugins/bootstrap-selectpicker.js",
+              "node_modules/js/plugins/bootstrap-datetimepicker.min.js",
+              "node_modules/js/plugins/jquery.dataTables.min.js",
+              "node_modules/js/plugins/bootstrap-tagsinput.js",
+              "node_modules/js/plugins/jasny-bootstrap.min.js",
+              "node_modules/js/plugins/fullcalendar.min.js",
+              "node_modules/js/plugins/jquery-jvectormap.js",
+              "node_modules/js/plugins/nouislider.min.js",
+              "node_modules/js/plugins/arrive.min.js",
+              "node_modules/js/plugins/chartist.min.js",
+              "node_modules/js/plugins/bootstrap-notify.js",
+              "node_modules/js/material-dashboard.min.js",
+
+              "node_modules/demo/demo.js",
+              "node_modules/js/js-manuel-login.js"
+            ]
           },
           "configurations": {
             "production": {
